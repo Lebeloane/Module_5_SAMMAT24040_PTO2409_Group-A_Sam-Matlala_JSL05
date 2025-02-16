@@ -11,7 +11,11 @@ const songs = [
     { title: "Come and Get Your Love", artist: "Redbone", genre: "Rock" },
     { title: "I'm Not in Love", artist: "10cc", genre: "Pop" },
     { title: "Fooled Around and Fell in Love", artist: "Elvin Bishop", genre: "Rock" },
-    // Feel free to add even more songs
+    { title: "Love yours", artist: "J colele", genre: "Rap/HipHop"},
+    { title: "Confidently lost", artist: "Sabrina Claudio", genre: "Alternative"},
+    { title: "Whipped cream", artist: "Ari Lennox", genre: "R&B"},
+    { title: "Humble", artist: "Kendrick Lamar", genre: "Rap/HipHop"},
+    { title: "Psycho", artist: "Dave", genre: "Rap/HipHop"}
 ];
 
 
@@ -19,6 +23,9 @@ const songs = [
 const guardians = {
     "Star-Lord": "Rock",
     "Gamora": "Pop",
+    "Drax": "R&B",
+    "Rocket": "Alternative",
+    "Groot": "Rap/HipHop"
     // Add preferences for Drax, Rocket, and Groot
 };
 
