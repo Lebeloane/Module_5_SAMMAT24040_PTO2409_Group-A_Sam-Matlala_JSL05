@@ -1,3 +1,7 @@
+* {
+    user-select: none;
+}
+
 body {
     font-family: 'Arial', sans-serif;
     background-color: #221f24; /* Dark purple background */
@@ -25,6 +29,7 @@ h1 {
 
 .song {
     margin: 10px 0; /* Increased margin */
+    list-style: none;
 }
 
 .song-title {
